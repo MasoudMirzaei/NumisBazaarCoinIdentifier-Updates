@@ -1,8 +1,8 @@
 {
   "platform": "android",
-  "latestBuild": 10001,
+  "latestBuild": 10002,
   "minimumSupportedBuild": 1,
-  "latestVersion": "0.1.1-ci.1",
-  "downloadUrl": "https://github.com/MasoudMirzaei/NumisBazaarCoinIdentifier-Updates/releases/download/android-10001/coin-identifier-0.1.1-ci.1.apk",
+  "latestVersion": "0.1.1-ci.2",
+  "downloadUrl": "https://github.com/MasoudMirzaei/NumisBazaarCoinIdentifier-Updates/releases/download/android-10002/coin-identifier-0.1.1-ci.2.apk",
   "releaseNotes": "Automated Android build from main"
 }
